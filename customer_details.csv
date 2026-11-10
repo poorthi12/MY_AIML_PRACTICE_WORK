@@ -1,0 +1,22 @@
+
+CustomerID,Age,Gender,City,MonthlyCharges,TotalCharges,Tenure,Contract,PaymentMethod,Feedback,Churn
+101,25,Male,Bangalore,500,5000,10,Monthly,Credit Card,Good service,No
+102,35,Female,Mysore,800,16000,20,Yearly,UPI,Very good experience,No
+103,45,Male,Chennai,1200,6000,5,Monthly,Cash,Poor customer support,Yes
+104,28,Female,Bangalore,600,12000,20,Yearly,UPI,Happy with service,No
+105,52,Male,Mysore,1500,45000,30,Yearly,Credit Card,Very expensive service,Yes
+106,40,Female,Chennai,900,9000,10,Monthly,Cash,Bad experience,Yes
+107,23,Male,Bangalore,400,8000,20,Yearly,UPI,Good support,No
+108,60,Female,Mysore,2000,10000,5,Monthly,Credit Card,Not satisfied,Yes
+109,32,Male,Chennai,700,21000,30,Yearly,Cash,Excellent service,No
+110,29,Female,Bangalore,550,5500,10,Monthly,UPI,Very bad experience,Yes
+111,42,Male,Mysore,1000,30000,30,Yearly,Credit Card,Good service,No
+112,37,Female,Chennai,850,8500,10,Monthly,Cash,Slow customer support,Yes
+113,26,Male,Bangalore,450,9000,20,Yearly,UPI,Happy customer,No
+114,55,Female,Mysore,1800,9000,5,Monthly,Credit Card,Too expensive,Yes
+115,31,Male,Chennai,750,22500,30,Yearly,Cash,Excellent support,No
+116,48,Female,Bangalore,1300,13000,10,Monthly,UPI,Very poor service,Yes
+117,27,Male,Mysore,500,10000,20,Yearly,Credit Card,Good experience,No
+118,39,Female,Chennai,950,9500,10,Monthly,Cash,Not happy with service,Yes
+119,34,Male,Bangalore,650,19500,30,Yearly,UPI,Great service,No
+120,50,Female,Mysore,1600,8000,5,Monthly,Credit Card,Bad support,Yes
