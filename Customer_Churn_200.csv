@@ -1,0 +1,201 @@
+Customer_ID,Age,Gender,City,Signup_Date,Plan,Monthly_Charges,Tenure_Months,Support_Tickets,Last_Login_Days,Payment_Method,Contract_Type,Monthly_Usage_Hours,Satisfaction_Score,Churn
+1001,56.0,Female,Bangalore,01/01/2023,Premium,1012.0,57,8,58,Net Banking,Monthly,150,9.0,1
+1002,69.0,Other,Hyderabad,06/01/2023,Premium,381.0,2,0,86,UPI,Quarterly,103,5.0,1
+1003,46.0,Male,Chennai,11/01/2023,Basic,1467.0,15,7,95,UPI,Yearly,194,4.0,1
+1004,32.0,Female,Mumbai,16/01/2023,Basic,2803.0,11,11,80,UPI,Yearly,166,10.0,1
+1005,60.0,Male,Bangalore,21/01/2023,Basic,2200.0,8,10,80,Debit Card,Quarterly,103,1.0,1
+1006,25.0, male ,Chennai,26/01/2023,Premium,2347.0,26,11,13,Net Banking,Yearly,90,7.0,0
+1007,38.0,Other,Hyderabad,31/01/2023,Basic,349.0,51,11,8,Credit Card,Monthly,174,3.0,1
+1008,56.0,Female,,05/02/2023,Premium,983.0,45,3,39,Debit Card,Yearly,122,6.0,0
+1009,36.0,Other,Bangalore,10/02/2023,Standard,1015.0,44,3,65,Credit Card,Monthly,143,,0
+1010,40.0,Other,Pune,15/02/2023,Premium,,5,4,24,,Quarterly,106,5.0,0
+1011,28.0,Female,,20/02/2023,Premium,747.0,6,7,72,Debit Card,Monthly,119,5.0,1
+1012,28.0,Male,Chennai,25/02/2023,Standard,1179.0,26,4,21,Credit Card,Yearly,172,1.0,0
+1013,41.0,Male,Delhi,02/03/2023,basic,786.0,54,7,3,Net Banking,Yearly,49,1.0,1
+1014,53.0,Female,Chennai,07/03/2023,Basic,2122.0,4,9,25,Credit Card,Yearly,104,3.0,1
+1015,57.0,Male,Mumbai,12/03/2023,Basic,2380.0,19,0,57,Net Banking,Quarterly,61,10.0,0
+1016,41.0,Female,Mumbai,17/03/2023,Premium,2441.0,20,11,28,,Quarterly,195,,0
+1017,20.0,Female,Pune,22/03/2023,Basic,1873.0,33,9,97,Net Banking,Yearly,123,5.0,1
+1018,39.0,Other,Delhi,27/03/2023,Premium,2500.0,20,8,86,UPI,Monthly,134,2.0,1
+1019,19.0,Female,Bangalore,01/04/2023,Basic,548.0,49,5,36,Credit Card,Quarterly,9,8.0,0
+1020,41.0,Other,Mumbai,06/04/2023,Basic,972.0,12,2,74,Debit Card,Yearly,6,2.0,1
+1021,61.0,Male,bangalore,11/04/2023,Premium,736.0,47,7,69,Debit Card,Yearly,73,9.0,1
+1022,47.0,Male,Hyderabad,16/04/2023,Basic,2464.0,1,8,17,Credit Card,Quarterly,103,2.0,1
+1023,55.0,Male,Pune,21/04/2023,Premium,1069.0,26,5,84,,Quarterly,160,9.0,1
+1024,19.0,Male,Mumbai,26/04/2023,Basic,566.0,14,10,41,UPI,Quarterly,41,7.0,0
+1025,38.0,Other,Mumbai,01/05/2023,Basic,2283.0,38,6,99,Net Banking,Monthly,114,8.0,0
+1026,50.0,Male,,06/05/2023,Standard,1376.0,37,0,40,Credit Card,Monthly,8,2.0,0
+1027,29.0,Female,Bangalore,11/05/2023,Standard,534.0,11,4,37,Credit Card,Yearly,72,7.0,0
+1028,39.0,Female,Chennai,16/05/2023,Premium,687.0,36,4,33,Debit Card,Quarterly,178,6.0,0
+1029,61.0,Female,Mumbai,21/05/2023,Standard,1061.0,13,9,16,Credit Card,Monthly,92,4.0,1
+1030,42.0,Other,Pune,26/05/2023,Premium,2147.0,43,3,36,UPI,Quarterly,62,7.0,0
+1031,66.0,Male,Pune,31/05/2023,Standard,2747.0,3,5,24,upi,Yearly,84,4.0,0
+1032,44.0,Male,Delhi,05/06/2023,Basic,922.0,33,6,75,Debit Card,Monthly,62,2.0,1
+1033,59.0,Male,Chennai,10/06/2023,Premium,1551.0,6,8,86,Net Banking,Monthly,111,10.0,1
+1034,45.0,Other,,15/06/2023,Premium,876.0,50,0,85,Debit Card,Monthly,127,7.0,0
+1035,33.0,Female,Bangalore,20/06/2023,Basic,2421.0,56,5,84,Debit Card,Yearly,7,8.0,0
+1036,32.0,Female,Hyderabad,25/06/2023,Premium,733.0,10,6,26,,Quarterly,84,2.0,1
+1037,64.0,Male,Chennai,30/06/2023,Premium,2449.0,5,2,56,Debit Card,Monthly,132,5.0,1
+1038,68.0,Female,Chennai,05/07/2023,Standard,1062.0,23,7,30,Debit Card,Yearly,134,1.0,1
+1039,61.0,Female,Chennai,10/07/2023,Premium,1628.0,10,4,5,Credit Card,Quarterly,58,7.0,1
+1040,69.0,Other,Hyderabad,15/07/2023,Basic,2444.0,44,8,90,Credit Card,Yearly,22,8.0,1
+1041,20.0,Other,,20/07/2023,Standard,1657.0,2,4,39,Net Banking,Quarterly,154,6.0,0
+1042,54.0,Other,Pune,25/07/2023,Standard,2781.0,13,8,97,Credit Card,Yearly,127,5.0,0
+1043,68.0,Other,,30/07/2023,Basic,745.0,40,9,11,Credit Card,Quarterly,3,6.0,0
+1044,24.0,Male,Chennai,04/08/2023,Basic,2316.0,2,3,52,Debit Card,Monthly,127,2.0,1
+1045,38.0,Other,Pune,09/08/2023,Standard,1630.0,20,8,70,UPI,Quarterly,41,1.0,1
+1046,26.0,Female,Delhi,14/08/2023,Premium,547.0,1,4,9,Credit Card,Yearly,188,7.0,0
+1047,56.0,Male,Chennai,19/08/2023,Standard,464.0,37,9,44,UPI,Yearly,106,7.0,0
+1048,35.0,Female,Hyderabad,24/08/2023,Basic,1657.0,9,8,16,Credit Card,Quarterly,14,10.0,0
+1049,21.0,Female,Mumbai,29/08/2023,Standard,1318.0,17,2,25,Credit Card,Monthly,12,10.0,0
+1050,42.0,Female,Chennai,03/09/2023,Basic,840.0,9,3,84,Net Banking,Monthly,87,2.0,1
+1051,150.0,Other,Mumbai,08/09/2023,Standard,1057.0,11,8,91,Net Banking,Quarterly,12,2.0,1
+1052,67.0,Other,Pune,13/09/2023,Premium,2427.0,15,9,61,Net Banking,Quarterly,141,1.0,1
+1053,26.0,Male,Delhi,18/09/2023,Standard,2479.0,24,10,45,UPI,Yearly,25,10.0,0
+1054,43.0,Male,Bangalore,23/09/2023,Standard,1095.0,38,5,63,Debit Card,Monthly,45,8.0,0
+1055,19.0,Other,Delhi,28/09/2023,Basic,436.0,55,1,1,Credit Card,Quarterly,122,8.0,1
+1056,37.0,Female,Chennai,03/10/2023,Basic,2530.0,35,6,53,,Monthly,147,1.0,1
+1057,45.0,Male,Mumbai,08/10/2023,Basic,1652.0,30,1,64,Credit Card,Quarterly,55,8.0,0
+1058,64.0,Other,Mumbai,13/10/2023,Standard,2174.0,31,10,50,UPI,Quarterly,100,9.0,1
+1059,24.0,Other,Hyderabad,18/10/2023,Premium,367.0,49,1,52,Net Banking,Monthly,173,4.0,1
+1060,61.0,Other,Mumbai,23/10/2023,Basic,2892.0,5,10,35,Debit Card,Quarterly,136,1.0,1
+1061,25.0,Female,Hyderabad,28/10/2023,Basic,50000.0,44,0,25,UPI,Quarterly,119,1.0,0
+1062,64.0,Other,Pune,02/11/2023,Standard,1772.0,50,10,28,Net Banking,Yearly,53,3.0,0
+1063,52.0,Other,Bangalore,07/11/2023,Basic,503.0,14,10,20,UPI,Quarterly,183,5.0,0
+1064,31.0,Other,Chennai,12/11/2023,Premium,2472.0,53,11,10,Debit Card,Quarterly,32,5.0,0
+1065,34.0,Other,Hyderabad,17/11/2023,Premium,341.0,56,10,39,Net Banking,Quarterly,51,9.0,1
+1066,53.0,Male,Bangalore,22/11/2023,Basic,2205.0,11,2,10,UPI,Yearly,44,10.0,1
+1067,67.0,Male,Mumbai,27/11/2023,Basic,2457.0,9,5,35,Debit Card,Monthly,82,2.0,1
+1068,57.0,Other,Mumbai,02/12/2023,Standard,1059.0,34,7,58,Credit Card,Yearly,198,2.0,1
+1069,21.0,Female,Bangalore,07/12/2023,Premium,2441.0,12,8,38,Debit Card,Yearly,146,6.0,0
+1070,19.0,Male,Mumbai,12/12/2023,Premium,2293.0,35,6,98,Credit Card,Monthly,150,9.0,1
+1071,23.0,Other,Pune,17/12/2023,Basic,2234.0,35,3,53,UPI,Yearly,1000,1.0,0
+1072,59.0,Male,Pune,22/12/2023,Standard,1198.0,1,5,97,Net Banking,Monthly,96,9.0,1
+1073,21.0,Male,Bangalore,27/12/2023,Premium,658.0,40,4,54,Net Banking,Yearly,56,9.0,1
+1074,46.0,Female,Hyderabad,01/01/2024,Premium,2018.0,22,7,23,UPI,Monthly,105,9.0,0
+1075,35.0,Other,Hyderabad,06/01/2024,Standard,579.0,29,0,21,Net Banking,Quarterly,59,5.0,0
+1076,43.0,Other,Bangalore,11/01/2024,Standard,2186.0,8,0,68,Net Banking,Yearly,131,9.0,1
+1077,61.0,Female,Hyderabad,16/01/2024,Premium,965.0,11,10,55,Credit Card,Yearly,156,4.0,1
+1078,51.0,Female,Hyderabad,21/01/2024,Premium,391.0,41,5,32,UPI,Yearly,35,2.0,0
+1079,27.0,Other,Pune,26/01/2024,Standard,970.0,37,9,35,,Yearly,189,6.0,1
+1080,53.0,Other,Hyderabad,31/01/2024,Premium,2268.0,14,11,19,Credit Card,Quarterly,93,4.0,0
+1081,31.0,Female,Delhi,05/02/2024,Basic,359.0,30,1,82,UPI,Yearly,182,6.0,0
+1082,,Male,Chennai,10/02/2024,Basic,2980.0,35,4,98,Credit Card,Quarterly,191,3.0,1
+1083,65.0,Male,Mumbai,15/02/2024,Standard,,21,0,80,Debit Card,Quarterly,97,6.0,0
+1084,32.0,Female,Delhi,20/02/2024,Standard,1788.0,37,6,61,Debit Card,Quarterly,135,2.0,1
+1085,25.0,Male,,25/02/2024,Standard,902.0,5,0,97,UPI,Quarterly,76,2.0,1
+1086,31.0,Female,Pune,01/03/2024,Basic,980.0,19,3,72,Debit Card,Monthly,49,9.0,0
+1087,40.0,Male,Bangalore,06/03/2024,Premium,2880.0,59,8,25,Credit Card,Monthly,94,7.0,1
+1088,57.0,Male,Hyderabad,11/03/2024,Basic,1727.0,14,0,65,Debit Card,Yearly,159,3.0,1
+1089,38.0,Other,Pune,16/03/2024,Premium,2991.0,26,3,72,Credit Card,Monthly,186,1.0,1
+1090,33.0,Other,Chennai,21/03/2024,Basic,2579.0,4,5,72,Credit Card,Monthly,189,8.0,1
+1091,62.0,Male,Hyderabad,26/03/2024,Premium,822.0,25,5,39,Debit Card,Yearly,24,6.0,0
+1092,35.0,Male,Bangalore,31/03/2024,Basic,2692.0,45,11,16,UPI,Yearly,148,7.0,0
+1093,64.0,Other,Pune,05/04/2024,Standard,2892.0,42,7,0,Net Banking,Yearly,37,9.0,0
+1094,41.0,Other,Pune,10/04/2024,Basic,2267.0,25,0,88,Debit Card,Monthly,4,5.0,1
+1095,43.0,Other,Pune,15/04/2024,Premium,1400.0,18,6,60,Credit Card,Monthly,108,1.0,1
+1096,42.0,Female,Chennai,20/04/2024,Basic,2052.0,40,0,42,Credit Card,Yearly,126,10.0,1
+1097,62.0,Male,Hyderabad,25/04/2024,Basic,2135.0,8,6,41,Debit Card,Quarterly,20,7.0,1
+1098,58.0,Other,Chennai,30/04/2024,Basic,2595.0,39,2,24,UPI,Yearly,188,5.0,0
+1099,46.0,Male,Mumbai,05/05/2024,Standard,2393.0,40,10,38,UPI,Quarterly,152,3.0,0
+1100,32.0,Female,Mumbai,10/05/2024,Basic,1443.0,14,7,34,Credit Card,Quarterly,50,9.0,0
+1101,62.0,Female,Hyderabad,15/05/2024,Standard,2560.0,32,2,2,Credit Card,Yearly,177,1.0,1
+1102,18.0,Other,Chennai,20/05/2024,Standard,2585.0,51,0,43,UPI,Yearly,179,1.0,0
+1103,42.0,Female,Bangalore,25/05/2024,Basic,1378.0,38,7,50,Net Banking,Yearly,96,1.0,1
+1104,24.0,Male,Pune,30/05/2024,Basic,2696.0,33,2,93,Debit Card,Monthly,105,3.0,0
+1105,26.0,Other,Pune,04/06/2024,Basic,405.0,23,1,97,Credit Card,Quarterly,164,6.0,1
+1106,41.0,Male,Hyderabad,09/06/2024,Premium,346.0,15,0,11,Credit Card,Monthly,117,10.0,0
+1107,,Male,Mumbai,14/06/2024,Basic,635.0,33,2,18,UPI,Monthly,98,3.0,0
+1108,61.0,Female,Mumbai,19/06/2024,Standard,1348.0,25,1,43,Debit Card,Yearly,66,8.0,0
+1109,25.0,Female,Pune,24/06/2024,Basic,1579.0,17,1,58,UPI,Monthly,79,10.0,0
+1110,41.0,Female,Hyderabad,29/06/2024,Premium,2354.0,33,5,48,Debit Card,Yearly,162,2.0,1
+1111,28.0,Female,Chennai,04/07/2024,Basic,923.0,47,11,60,Debit Card,Quarterly,164,9.0,1
+1112,68.0,Female,Mumbai,09/07/2024,Premium,2189.0,55,0,16,Debit Card,Yearly,6,3.0,0
+1113,34.0,Other,Chennai,14/07/2024,Premium,1575.0,2,1,73,Credit Card,Monthly,39,5.0,0
+1114,25.0,Male,Mumbai,19/07/2024,Basic,2014.0,14,5,56,Net Banking,Monthly,170,10.0,0
+1115,52.0,Male,Mumbai,24/07/2024,Standard,601.0,53,2,54,UPI,Yearly,115,8.0,1
+1116,52.0,Male,Delhi,29/07/2024,Premium,937.0,40,3,46,Net Banking,Yearly,186,2.0,1
+1117,50.0,Male,Mumbai,03/08/2024,Basic,,40,0,11,UPI,Monthly,125,6.0,0
+1118,22.0,Female,Bangalore,08/08/2024,Basic,1024.0,51,7,61,Debit Card,Quarterly,12,5.0,0
+1119,59.0,Male,Hyderabad,13/08/2024,Standard,824.0,39,6,79,Credit Card,Quarterly,131,10.0,0
+1120,56.0,Other,Hyderabad,18/08/2024,Premium,772.0,51,6,87,Net Banking,Yearly,18,9.0,0
+1121,58.0,Other,Chennai,23/08/2024,Premium,326.0,6,2,82,Credit Card,Quarterly,40,5.0,0
+1122,45.0,Male,Mumbai,28/08/2024,Basic,2424.0,6,9,7,UPI,Monthly,21,2.0,1
+1123,,Male,Bangalore,02/09/2024,Basic,663.0,3,9,94,Credit Card,Yearly,143,5.0,1
+1124,26.0,Other,Chennai,07/09/2024,Standard,824.0,7,2,20,Credit Card,Monthly,99,4.0,1
+1125,25.0,Other,Delhi,12/09/2024,Standard,1634.0,51,1,80,Net Banking,Monthly,26,7.0,0
+1126,29.0,Female,Chennai,17/09/2024,Premium,1181.0,8,11,86,Debit Card,Quarterly,8,,1
+1127,51.0,Other,Chennai,22/09/2024,Premium,1329.0,42,0,79,Credit Card,Yearly,100,2.0,1
+1128,50.0,Female,Mumbai,27/09/2024,Basic,1325.0,52,6,69,Debit Card,Yearly,87,5.0,0
+1129,65.0,Female,Delhi,02/10/2024,Premium,1945.0,15,6,71,UPI,Quarterly,42,7.0,0
+1130,40.0,Female,Chennai,07/10/2024,Standard,1217.0,47,11,24,Credit Card,Monthly,172,7.0,1
+1131,41.0,Female,,12/10/2024,Standard,2709.0,29,1,81,Net Banking,Monthly,14,5.0,0
+1132,54.0,Female,Bangalore,17/10/2024,Basic,2073.0,33,6,88,UPI,Monthly,78,9.0,1
+1133,52.0,Male,Hyderabad,22/10/2024,Standard,1830.0,52,7,11,UPI,Monthly,2,4.0,1
+1134,61.0,Other,Delhi,27/10/2024,Standard,2205.0,30,0,14,Net Banking,Yearly,119,3.0,0
+1135,57.0,Female,Delhi,01/11/2024,Standard,1514.0,39,8,58,Credit Card,Yearly,37,4.0,1
+1136,39.0,Other,Hyderabad,06/11/2024,Standard,1953.0,27,6,25,Credit Card,Quarterly,69,,0
+1137,44.0,Other,Chennai,11/11/2024,Basic,783.0,36,2,25,,Quarterly,166,6.0,0
+1138,52.0,Female,Delhi,16/11/2024,Basic,2374.0,29,7,46,Credit Card,Yearly,41,3.0,1
+1139,18.0,Male,Bangalore,21/11/2024,Premium,1012.0,38,6,31,Debit Card,Yearly,62,2.0,0
+1140,52.0,Female,Bangalore,26/11/2024,Standard,1361.0,57,10,9,Net Banking,Monthly,60,4.0,1
+1141,54.0,Male,Mumbai,01/12/2024,Premium,2275.0,33,7,15,Debit Card,Monthly,125,5.0,0
+1142,64.0,Other,Delhi,06/12/2024,Basic,1595.0,37,5,70,Credit Card,Quarterly,111,4.0,1
+1143,31.0,Male,Chennai,11/12/2024,Basic,1553.0,27,8,16,UPI,Yearly,14,3.0,1
+1144,20.0,Male,Hyderabad,16/12/2024,Basic,,55,4,22,Net Banking,Quarterly,84,8.0,0
+1145,18.0,Male,Hyderabad,21/12/2024,Basic,424.0,33,2,25,Credit Card,Yearly,130,10.0,0
+1146,22.0,Other,Chennai,26/12/2024,Basic,835.0,4,2,84,Credit Card,Monthly,70,4.0,1
+1147,43.0,Other,Pune,31/12/2024,Basic,2491.0,22,0,85,UPI,Quarterly,145,2.0,0
+1148,31.0,Male,Mumbai,05/01/2025,Basic,2371.0,2,11,6,UPI,Quarterly,123,2.0,1
+1149,56.0,Male,Hyderabad,10/01/2025,Standard,1902.0,10,7,13,Debit Card,Yearly,89,1.0,1
+1150,44.0,Female,Delhi,15/01/2025,Premium,365.0,5,1,78,Net Banking,Monthly,28,4.0,0
+1151,26.0,Male,Mumbai,20/01/2025,Basic,531.0,59,2,6,Net Banking,Quarterly,66,10.0,0
+1152,32.0,Female,Delhi,25/01/2025,Standard,2455.0,10,7,8,UPI,Monthly,163,9.0,1
+1153,32.0,Male,Bangalore,30/01/2025,Standard,1468.0,33,7,47,Debit Card,Quarterly,5,7.0,1
+1154,43.0,Female,Mumbai,04/02/2025,Premium,2457.0,54,10,71,Net Banking,Monthly,193,10.0,1
+1155,59.0,Other,Hyderabad,09/02/2025,Basic,2574.0,38,3,58,UPI,Yearly,168,7.0,0
+1156,30.0,Male,Mumbai,14/02/2025,Premium,409.0,13,3,86,Credit Card,Quarterly,184,7.0,0
+1157,68.0,Male,Mumbai,19/02/2025,Basic,1792.0,31,4,92,Net Banking,Quarterly,164,8.0,0
+1158,49.0,Male,Mumbai,24/02/2025,Standard,2380.0,47,5,81,Debit Card,Monthly,45,1.0,1
+1159,56.0,Male,Pune,01/03/2025,Standard,921.0,36,4,94,Debit Card,Monthly,151,10.0,1
+1160,66.0,Female,Mumbai,06/03/2025,Standard,2941.0,45,6,93,Debit Card,Quarterly,47,10.0,1
+1161,69.0,Male,Delhi,11/03/2025,Standard,2771.0,24,1,38,Credit Card,Yearly,31,8.0,0
+1162,49.0,Other,Bangalore,16/03/2025,Premium,2959.0,52,6,98,Net Banking,Monthly,139,4.0,1
+1163,21.0,Other,Chennai,21/03/2025,Basic,1840.0,56,9,17,,Monthly,10,4.0,1
+1164,47.0,Male,Mumbai,26/03/2025,Basic,1604.0,15,6,58,Credit Card,Monthly,195,4.0,1
+1165,54.0,Other,Hyderabad,31/03/2025,Premium,2060.0,29,0,16,Net Banking,Quarterly,118,6.0,0
+1166,40.0,Male,Mumbai,05/04/2025,Basic,2274.0,8,6,13,Credit Card,Quarterly,14,7.0,0
+1167,56.0,Male,Hyderabad,10/04/2025,Standard,2661.0,5,4,30,Credit Card,Quarterly,80,6.0,1
+1168,,Other,Delhi,15/04/2025,Basic,1175.0,29,2,23,Credit Card,Quarterly,93,1.0,0
+1169,32.0,Male,Hyderabad,20/04/2025,Standard,2288.0,47,2,98,Debit Card,Yearly,10,8.0,0
+1170,60.0,Other,Chennai,25/04/2025,Premium,1611.0,4,3,59,Net Banking,Yearly,76,10.0,1
+1171,46.0,Female,Bangalore,30/04/2025,Basic,1759.0,12,11,44,Credit Card,Quarterly,94,7.0,0
+1172,53.0,Male,Hyderabad,05/05/2025,Premium,2623.0,45,1,97,Net Banking,Yearly,105,6.0,1
+1173,30.0,Female,Hyderabad,10/05/2025,Basic,2032.0,2,1,2,Debit Card,Monthly,1,6.0,1
+1174,49.0,Other,Bangalore,15/05/2025,Standard,1904.0,27,0,36,Credit Card,Monthly,133,5.0,0
+1175,24.0,Female,Chennai,20/05/2025,Premium,1825.0,31,4,42,UPI,Monthly,20,6.0,0
+1176,68.0,Female,Mumbai,25/05/2025,Basic,2970.0,51,3,39,Debit Card,Quarterly,8,9.0,0
+1177,39.0,Other,Hyderabad,30/05/2025,Standard,2862.0,51,10,89,UPI,Monthly,171,10.0,1
+1178,45.0,Female,Bangalore,04/06/2025,Premium,2696.0,36,9,54,Net Banking,Yearly,1,9.0,1
+1179,19.0,Female,Delhi,09/06/2025,Premium,1929.0,36,1,86,Net Banking,Quarterly,57,10.0,0
+1180,59.0,Other,Bangalore,14/06/2025,Basic,1459.0,26,2,38,Debit Card,Yearly,64,8.0,0
+1181,62.0,Female,Delhi,19/06/2025,Basic,1057.0,43,6,14,Net Banking,Monthly,118,10.0,0
+1182,23.0,Other,Chennai,24/06/2025,Basic,541.0,27,6,3,UPI,Monthly,28,9.0,0
+1183,45.0,Female,Mumbai,29/06/2025,Standard,2889.0,5,11,92,Credit Card,Monthly,121,10.0,1
+1184,45.0,Other,Bangalore,04/07/2025,Basic,1362.0,20,3,85,Credit Card,Quarterly,107,8.0,0
+1185,61.0,Other,Pune,09/07/2025,Premium,527.0,11,4,24,Credit Card,Yearly,165,8.0,0
+1186,61.0,Female,Hyderabad,14/07/2025,Premium,2894.0,10,4,12,Debit Card,Quarterly,175,1.0,0
+1187,37.0,Female,Chennai,19/07/2025,Basic,1218.0,40,5,81,Net Banking,Quarterly,165,10.0,1
+1188,47.0,Female,Bangalore,24/07/2025,Basic,1545.0,38,8,32,UPI,Monthly,49,5.0,1
+1189,28.0,Male,Hyderabad,29/07/2025,Premium,304.0,6,1,15,Net Banking,Quarterly,120,,1
+1190,45.0,Male,Bangalore,03/08/2025,Standard,766.0,8,4,41,Net Banking,Quarterly,44,2.0,1
+1191,42.0,Male,Delhi,08/08/2025,Basic,2054.0,23,11,65,Net Banking,Monthly,56,8.0,1
+1192,56.0,Other,Bangalore,13/08/2025,Basic,373.0,47,2,54,Credit Card,Quarterly,156,3.0,1
+1193,50.0,Female,Pune,18/08/2025,Premium,302.0,26,3,98,UPI,Monthly,111,4.0,0
+1194,,Other,Bangalore,23/08/2025,Basic,2169.0,46,9,41,UPI,Monthly,134,7.0,0
+1195,44.0,Male,Bangalore,28/08/2025,Standard,944.0,43,5,33,Net Banking,Monthly,108,10.0,0
+1196,69.0,Female,Pune,02/09/2025,Premium,416.0,12,11,29,Credit Card,Monthly,189,9.0,0
+1197,30.0,Other,Chennai,07/09/2025,Basic,1928.0,26,7,12,Credit Card,Quarterly,148,2.0,1
+1198,58.0,Female,Bangalore,12/09/2025,Premium,2850.0,13,0,12,UPI,Monthly,114,3.0,1
+1101,62.0,Female,Hyderabad,15/05/2024,Standard,2560.0,32,2,2,Credit Card,Yearly,177,1.0,1
+1121,58.0,Other,Chennai,23/08/2024,Premium,326.0,6,2,82,Credit Card,Quarterly,40,5.0,0
